@@ -1,1 +1,0 @@
-# Save-SQL-Commands-Output-to-Notepad-in-SQL-Plus
